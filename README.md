@@ -52,9 +52,6 @@ infra_pipeline_project/
 └── assets/
 └── infra_dashboard_demo.gif
 
-
----
-
 ---
 ## 🎯 Use Case
 This project is ideal for companies like FreeAxez that build modular, high-performance infrastructure and need real-time monitoring across distributed zones. It simulates how data science and AI can bring operational intelligence to hardware-based environments.
