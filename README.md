@@ -12,6 +12,12 @@ This project is an AI- and data-powered dashboard for monitoring performance met
 
 ---
 
+## Demo Video
+
+https://drive.google.com/file/d/1hivll-GoUfsqyBk_vKsGGY5xz2zNKFKR/view?usp=sharing
+
+---
+
 ## 🧩 Features
 
 - Upload and simulate adaptive infrastructure data
