@@ -55,6 +55,29 @@ infra_pipeline_project/
 
 ---
 
+---
+## 🎯 Use Case
+This project is ideal for companies like FreeAxez that build modular, high-performance infrastructure and need real-time monitoring across distributed zones. It simulates how data science and AI can bring operational intelligence to hardware-based environments.
+
+
+## 📊 Simulated Infrastructure Data (Sample Schema)
+| timestamp           | building\_id | floor | zone | cable\_load\_kw | temperature\_c | occupancy |
+| ------------------- | ------------ | ----- | ---- | --------------- | -------------- | --------- |
+| 2025-05-13 10:00:00 | BLDG-A       | 2     | Z1   | 2.4             | 21.5           | 5         |
+| 2025-05-13 10:00:00 | BLDG-A       | 2     | Z2   | 3.1             | 23.0           | 8         |
+
+
+## 🧠 Key Learnings
+- Designed end-to-end ETL for synthetic infrastructure data
+
+- Simulated real-world energy & cable metrics for smart buildings
+
+- Created insights and alert logic for over-utilization of adaptive zones
+
+- Showcased how infrastructure-aware AI/data systems help businesses like FreeAxez
+
+---
+
 ## 🌐 Supabase Setup
 
   1. Create a [Supabase](https://supabase.com) account and project
@@ -79,25 +102,3 @@ infra_pipeline_project/
   DB_USER=postgres
   DB_PASSWORD=your_password
 
-
----
-
-## 🎯 Use Case
-This project is ideal for companies like FreeAxez that build modular, high-performance infrastructure and need real-time monitoring across distributed zones. It simulates how data science and AI can bring operational intelligence to hardware-based environments.
-
-
-## 📊 Simulated Infrastructure Data (Sample Schema)
-| timestamp           | building\_id | floor | zone | cable\_load\_kw | temperature\_c | occupancy |
-| ------------------- | ------------ | ----- | ---- | --------------- | -------------- | --------- |
-| 2025-05-13 10:00:00 | BLDG-A       | 2     | Z1   | 2.4             | 21.5           | 5         |
-| 2025-05-13 10:00:00 | BLDG-A       | 2     | Z2   | 3.1             | 23.0           | 8         |
-
-
-## 🧠 Key Learnings
-- Designed end-to-end ETL for synthetic infrastructure data
-
-- Simulated real-world energy & cable metrics for smart buildings
-
-- Created insights and alert logic for over-utilization of adaptive zones
-
-- Showcased how infrastructure-aware AI/data systems help businesses like FreeAxez
