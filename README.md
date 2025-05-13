@@ -22,6 +22,12 @@ https://drive.google.com/file/d/1hivll-GoUfsqyBk_vKsGGY5xz2zNKFKR/view?usp=shari
 
 ![Simulate Data Screenshot](assets/simulate_data.gif)
 
+---
+
+## Output Screenshot
+
+![Output Screenshot](assets/merged.gif)
+
 ## 🧩 Features
 
 - Upload and simulate adaptive infrastructure data
