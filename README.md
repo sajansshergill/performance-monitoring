@@ -8,7 +8,7 @@ This project is an AI- and data-powered dashboard for monitoring performance met
 
 ## 📊 Live Demo (GIF)
 
-![Dashboard Demo](assets/infra_dashboard_demo.gif)
+![Dashboard Demo](assets/demo.gif)
 
 ---
 
