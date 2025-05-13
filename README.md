@@ -31,3 +31,11 @@ infra_pipeline_project/
 | 2025-05-13 10:00:00 | BLDG-A       | 2     | Z2   | 3.1             | 23.0           | 8         |
 
 
+## 🧠 Key Learnings
+- Designed end-to-end ETL for synthetic infrastructure data
+
+- Simulated real-world energy & cable metrics for smart buildings
+
+- Created insights and alert logic for over-utilization of adaptive zones
+
+- Showcased how infrastructure-aware AI/data systems help businesses like FreeAxez
